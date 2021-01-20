@@ -3,5 +3,6 @@
 - тестирование десктопного приложения FastStone Screen Capture  
 - язык скриптов: 4Test  
 - технология Record&Playback  
-- WebDriven  
+- Data-Driven Testing  
+
 
