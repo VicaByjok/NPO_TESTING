@@ -1,0 +1,14 @@
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.csprojAssemblyReference.cache
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.csproj.CoreCompileInputs.cache
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.AssemblyInfoInputs.cache
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.AssemblyInfo.cs
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\SeleniumLab.deps.json
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\SeleniumLab.runtimeconfig.json
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\SeleniumLab.runtimeconfig.dev.json
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\SeleniumLab.dll
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\bin\Debug\netcoreapp2.1\SeleniumLab.pdb
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.dll
+D:\5sem\НПО\лабы\Lab6\SeleniumLab\SeleniumLab\obj\Debug\netcoreapp2.1\SeleniumLab.pdb
