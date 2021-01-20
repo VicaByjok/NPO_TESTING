@@ -1,0 +1,8 @@
+﻿[-] testcase Test2_rectangle ()
+	[-] recording
+		[ ] FastStoneCapture.TBXToolbar2.Click(MB_LEFT, 76, 13)
+		[ ] // Removed 'ReleaseKeys' because no matching 'PressKeys' was found
+		[ ] FastStoneCapture.TRectangleCapture.Click(MB_LEFT, 10, 10)
+		[ ] FastStoneCapture.TRectangleCapture.PressMouse(MB_LEFT, 642, 137)
+		[ ] FastStoneCapture.TRectangleCapture.ReleaseMouse(MB_LEFT, 1173, 599)
+		[ ] // Removed 'ReleaseKeys' because no matching 'PressKeys' was found

@@ -1,0 +1,10 @@
+﻿[-] testcase Test3_ruler ()
+	[-] recording
+		[ ] FastStoneCapture.TBXToolbar2.Click(MB_LEFT, 263, 15)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.Click(MB_LEFT, 67, 50)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.PressMouse(MB_LEFT, 442, 120)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.ReleaseMouse(MB_LEFT, 1025, 644)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.Click(MB_LEFT, 49, 51)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.PressMouse(MB_LEFT, 389, 225)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.ReleaseMouse(MB_LEFT, 498, 345)
+		[ ] FastStoneCapture.ЭкраннаяЛинейка.TypeKeys("<Esc>")

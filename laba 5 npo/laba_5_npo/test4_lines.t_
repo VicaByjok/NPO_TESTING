@@ -1,0 +1,19 @@
+﻿[-] testcase Test4_lines ()
+	[-] recording
+		[ ] FastStoneCapture.TBXToolbar2.Click(MB_LEFT, 247, 16)
+		[ ] FastStoneCapture.FastStoneCapture.PressKeys("<Left Ctrl>")
+		[ ] // Converted 'PressKeys' to 'TypeKeys' because no matching 'ReleaseKeys' was found
+		[ ] FastStoneCapture.FastStoneCapture.TypeKeys("<Left Shift>")
+		[ ] FastStoneCapture.FastStoneCapture.ReleaseKeys("<Left Ctrl>")
+		[ ] FastStoneCapture.FastStoneCapture.PressKeys("<Left Ctrl>")
+		[ ] // Converted 'PressKeys' to 'TypeKeys' because no matching 'ReleaseKeys' was found
+		[ ] FastStoneCapture.FastStoneCapture.TypeKeys("<Left Shift>")
+		[ ] FastStoneCapture.FastStoneCapture.ReleaseKeys("<Left Ctrl>")
+		[ ] FastStoneCapture.FastStoneCapture.PressKeys("<Left Ctrl>")
+		[ ] FastStoneCapture.FastStoneCapture.ReleaseKeys("<Left Ctrl>")
+		[ ] // Converted 'PressKeys' to 'TypeKeys' because no matching 'ReleaseKeys' was found
+		[ ] FastStoneCapture.FastStoneCapture.TypeKeys("<Left Ctrl>")
+		[ ] FastStoneCapture.FastStoneCapture.PressKeys("<Left Shift>")
+		[ ] FastStoneCapture.FastStoneCapture.ReleaseKeys("<Left Shift>")
+		[ ] FastStoneCapture.FastStoneCapture.TypeKeys("<Esc>")
+[ ] 

@@ -1,0 +1,7 @@
+﻿[-] testcase Test5_lupa ()
+	[-] recording
+		[ ] FastStoneCapture.TBXToolbar2.Click(MB_LEFT, 217, 9)
+		[ ] // Removed 'ReleaseKeys' because no matching 'PressKeys' was found
+		[ ] FastStoneCapture.ЭкраннаяЛупа.PressMouse(MB_LEFT, 677, 370)
+		[ ] sleep(5)
+		[ ] FastStoneCapture.ЭкраннаяЛупа.TypeKeys("<Esc>")

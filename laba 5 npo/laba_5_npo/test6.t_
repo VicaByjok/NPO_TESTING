@@ -1,0 +1,7 @@
+﻿[-] testcase Test6_open_last_file ()
+	[-] recording
+		[ ] FastStoneCapture.TBXToolbar2.Click(MB_LEFT, 14, 10)
+		[ ] sleep(2)
+		[ ] FastStoneCapture.TTBXPopupWindow.Click(MB_LEFT, 96, 110)
+		[ ] sleep(2)
+		[ ] CUsersLaptopDesktopLaba5NpoRbJ.TImageEnView.TypeKeys("<Esc>")
